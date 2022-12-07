@@ -1,3 +1,5 @@
+# Code Specialist
+
 Code Specialist is a union of people interested in professional Computer Science content. We have tutorials, open source contributions and blog posts focusing on a broad area of
 state-of-the-art technologies, paradigms and quality aspects.
 
