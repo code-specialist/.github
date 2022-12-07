@@ -10,10 +10,10 @@ state-of-the-art technologies, paradigms and quality aspects.
 
 ## Our Projects
 
-|                         |                                                                        |                                                                      |                                                              |
-|-------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------|
-| FastAPI Keycloak        | Keycloak integration for FastAPI                                       | [GitHub](https://github.com/code-specialist/fastapi-keycloak)        | [Docs](https://fastapi-keycloak.code-specialist.com/)        |
-| FastAPI Auth Middleware | Authentication/Authorization Middleware for FastAPI                    | [GitHub](https://github.com/code-specialist/fastapi-auth-middleware) | [Docs](https://fastapi-auth-middleware.code-specialist.com/) |
-| PyPI Poetry Publish     | GitHub Action to publish PyPI packages with Poetry and GitHub releases | [GitHub](https://github.com/code-specialist/pypi-poetry-publish)     |
-| Python Database Tools   | Tools to ease database integration with Python apps                    | [GitHub](https://github.com/code-specialist/python-db-tools)         |
-| Python Repository       | Repository pattern implementation for SQLModel                         | [GitHub](https://github.com/code-specialist/python-repository)       |
+|                                                                                       |                                                                        |                                                              |             
+|---------------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------|
+| [FastAPI Keycloak](https://github.com/code-specialist/fastapi-keycloak)               | Keycloak integration for FastAPI                                       | [Docs](https://fastapi-keycloak.code-specialist.com/)        |
+| [FastAPI Auth Middleware](https://github.com/code-specialist/fastapi-auth-middleware) | Authentication/Authorization Middleware for FastAPI                    | [Docs](https://fastapi-auth-middleware.code-specialist.com/) |
+| [PyPI Poetry Publish](https://github.com/code-specialist/pypi-poetry-publish)         | GitHub Action to publish PyPI packages with Poetry and GitHub releases | 
+| [Python Database Tools](https://github.com/code-specialist/python-db-tools)           | Tools to ease database integration with Python apps                    |
+| [Python Repository](https://github.com/code-specialist/python-repository)             | Repository pattern implementation for SQLModel                         | 
