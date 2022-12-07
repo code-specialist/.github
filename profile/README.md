@@ -10,7 +10,7 @@ state-of-the-art technologies, paradigms and quality aspects.
 
 ## Our Projects
 
-| Name                                | Description                                                            | Project Page                                                         | Docs                                                         |
+|                                     |                                                                        |                                                                      |                                                              |
 |-------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------|
 | FastAPI Keycloak                    | Keycloak integration for FastAPI                                       | [GitHub](https://github.com/code-specialist/fastapi-keycloak)        | [Docs](https://fastapi-keycloak.code-specialist.com/)        |
 | FastAPI Auth Middleware             | Authentication/Authorization Middleware for FastAPI                    | [GitHub](https://github.com/code-specialist/fastapi-auth-middleware) | [Docs](https://fastapi-auth-middleware.code-specialist.com/) |
